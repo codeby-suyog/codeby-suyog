@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🔧 Business Intelligence Enthusiast | Power BI Developer  
 💡 Passionate about transforming data into actionable insights  
 🚀 Exploring coding, automation, and creative tech solutions  
